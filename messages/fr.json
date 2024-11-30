@@ -1,0 +1,125 @@
+{
+  "lang": {
+    "direction": "ltr"
+  },
+  "NotFoundPage": {
+    "title": "Page non trouvée",
+    "description": "Oops! Il semble que vous avez trouvé une page qui n'existe pas. Ne vous inquiétez pas, notre magie de l'internationalisation est toujours à l'œuvre sur d'autres parties de l'application. N'hésitez pas à revenir pour explorer davantage !"
+  },
+  "announcement": {
+    "content": "Nouvelle collection disponible maintenant !"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "pr": "Produits",
+    "contact": "Contact"
+  },
+  "heroSection": {
+    "title": "Découvrez les Meilleurs Tissus",
+    "description": "Nous nous engageons à fournir des tissus de haute qualité pour chaque besoin."
+  },
+  "servicesSection": {
+    "title": "Services",
+    "servicesList": [
+      {
+        "id": 1,
+        "image": "/images/fabric-manufacturing1.jpg",
+        "title": "Fabrication de Tissus",
+        "description": "Notre installation de fabrication de tissus à la pointe de la technologie allie techniques traditionnelles et technologie moderne pour produire des textiles de haute qualité. De la matière première au produit fini, chaque étape est gérée avec soin pour assurer durabilité, confort et style."
+      },
+      {
+        "id": 2,
+        "image": "/images/fabric-dyeing.jpg",
+        "title": "Teinture de Tissus",
+        "description": "Notre processus de teinture de tissus utilise des colorants écologiques et des techniques innovantes pour obtenir des couleurs vibrantes et durables. Nous mettons l'accent sur la durabilité et la sécurité, garantissant que nos tissus sont non seulement beaux, mais aussi responsables sur le plan environnemental."
+      },
+      {
+        "id": 3,
+        "image": "/images/fabric-weaving.jpg",
+        "title": "Tissage",
+        "description": "Notre processus de tissage est là où l'artisanat rencontre la précision. En utilisant les meilleurs matériaux, nos tisserands experts créent des motifs et des textures complexes qui donnent vie à nos tissus. Chaque pièce est un témoignage de notre engagement envers la qualité et l'excellence."
+      }
+    ]
+  },
+  "aboutSection": {
+    "title": "À propos de Nous",
+    "image": "/images/about-pic.jpg",
+    "introduction": "Bienvenue dans notre entreprise, où la tradition rencontre l'innovation dans le monde des textiles. Avec des décennies d'expérience dans la fabrication, la teinture et le tissage de tissus, nous nous engageons à livrer des produits de la plus haute qualité à nos clients.",
+    "commitment": "Notre voyage a commencé avec une passion pour les tissus et une vision de créer une marque qui valorise l'artisanat, la durabilité et la satisfaction client. Nous croyons que la qualité du tissu peut transformer un produit. C'est pourquoi nous investissons dans les meilleures matières premières et employons des artisans qualifiés qui sont fiers de leur travail. Nos installations sont équipées de technologies avancées pour garantir précision et excellence à chaque étape de la production.",
+    "sustainability": "De la source au traitement, nous nous efforçons de minimiser notre empreinte environnementale tout en offrant des tissus vibrants, durables et magnifiques.",
+    "productsRange": "Que vous recherchiez des soies luxueuses, des cotons robustes ou des mélanges innovants, vous trouverez quelque chose qui répond à vos besoins dans notre vaste collection.",
+    "conclusion": "Nous sommes impatients de faire partie de votre voyage créatif et de vous aider à concrétiser vos visions avec nos tissus exceptionnels.",
+    "aboutSectionElements": {
+      "title": "À propos de Nous",
+      "introduction": "Introduction",
+      "commitment": "Engagement",
+      "sustainability": "Durabilité",
+      "productsRange": "Gamme de Produits",
+      "conclusion": "Partenaires"
+    }
+  },
+  "productsSection": {
+    "title": "Nos Produits",
+    "productsList": [
+      {
+        "id": 1,
+        "name": "Coton",
+        "description": "Découvrez notre tissu de coton de haute qualité, parfait pour le port quotidien et les textiles domestiques. Réputé pour sa douceur, sa respirabilité et sa durabilité, ce tissu est idéal pour créer des vêtements confortables, des literies douillettes et une décoration intérieure élégante. Découvrez le confort naturel et la polyvalence de notre tissu de coton premium, un incontournable pour tout amateur de tissu.",
+        "pictures": ["/images/cotton/cotton1.jpg", "/images/cotton/cotton2.jpg", "/images/cotton/cotton3.jpg", "/images/cotton/cotton-plant.jpg"]
+      },
+      {
+        "id": 2,
+        "name": "Lin",
+        "description": "Élevez vos projets avec notre luxueux tissu de lin, réputé pour sa force et sa respirabilité. Ce tissu élégant offre une sensation fraîche et confortable, parfait pour des vêtements chics, des nappes sophistiquées et des rideaux aérés. Notre tissu de lin allie fonctionnalité à une touche de classe, idéal pour toute création raffinée.",
+        "pictures": ["/images/linen/linen1.jpeg", "/images/linen/linen2.jpg", "/images/linen/linen3.jpg", "/images/linen/linen.jpeg", "/images/linen/flax-plants-linen.jpeg"]
+      },
+      {
+        "id": 3,
+        "name": "Soie",
+        "description": "Indulgez-vous dans l'opulence de notre tissu de soie premium, avec une texture lisse et un éclat captivant. Ce tissu exquis drapé magnifiquement, en faisant l'idéal pour des vêtements de soirée élégants, des écharpes luxueuses et des accessoires délicats. Découvrez l'élégance et la sophistication inégalées de notre tissu de soie haute qualité, parfait pour vos projets les plus fins.",
+        "pictures": ["/images/silk/silk1.jpg", "/images/silk/silk2.jpg", "/images/silk/silk3.jpg"]
+      },
+      {
+        "id": 4,
+        "name": "Laine",
+        "description": "Notre tissu de laine de haute qualité est parfait pour créer des vêtements chauds et durables. Connu pour ses excellentes propriétés d'isolation, ce tissu est idéal pour la confection de pulls confortables, de manteaux robustes et de chapeaux élégants. Profitez de la chaleur naturelle et de la résilience de notre tissu de laine premium, adapté à la fois à la mode et aux projets fonctionnels.",
+        "pictures": ["/images/wool/wool1.jpg", "/images/wool/wool2.jpg", "/images/wool/wool3.jpg"]
+      },
+      {
+        "id": 5,
+        "name": "Polyester",
+        "description": "Explorez la polyvalence de notre tissu de polyester, connu pour sa durabilité et sa facilité d'entretien. Ce tissu est parfait pour une large gamme d'applications, des vêtements de tous les jours aux textiles domestiques. Avec sa résistance aux rides et au rétrécissement, notre tissu de polyester est un choix pratique pour les modes de vie occupés et les créations durables.",
+        "pictures": ["/images/polyester/polyester1.jpg", "/images/polyester/polyester2.jpg", "/images/polyester/polyester3.jpg"]
+      },
+      {
+        "id": 6,
+        "name": "Denim",
+        "description": "Notre solide tissu de denim est un favori intemporel pour créer des vêtements durables et élégants. Parfait pour confectionner des jeans, des vestes et des accessoires, ce tissu offre à la fois confort et longévité. Adoptez l'attrait classique et la polyvalence de notre tissu de denim premium, un must pour tout projet à la pointe de la mode.",
+        "pictures": ["/images/denim/denim1.jpg", "/images/denim/denim2.jpg", "/images/denim/denim3.jpg", "/images/denim/denim-making.jpg"]
+      },
+      {
+        "id": 7,
+        "name": "Rayonne",
+        "description": "Découvrez la douceur soyeuse de notre tissu de rayonne, parfait pour une variété d'applications. Connu pour sa texture lisse et son drapé vibrant, la rayonne est idéale pour créer des robes fluides, des blouses légères et des vêtements confortables pour la maison. Profitez de la sensation luxueuse et de la polyvalence de notre tissu de rayonne premium, un incontournable pour votre prochain projet de couture.",
+        "pictures": ["/images/rayon/rayon1.jpg", "/images/rayon/rayon2.jpg", "/images/rayon/rayon3.jpg"]
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Contactez-nous",
+    "description": "Vous avez des questions ou des demandes ? N'hésitez pas à nous contacter. Notre équipe est là pour vous aider.",
+    "emailPlaceHolder": "Email",
+    "messagePlaceHolder": "Message"
+
+  },
+  "footerSection": {
+    "presentation": "Nous nous engageons à fournir des tissus de haute qualité pour chaque besoin.",
+    "email": "contact@fabriccompany.com",
+    "whatsApp": "+1234567890",
+    "phoneNumber": "+0987654321",
+    "address": "123 Rue du Tissu, Ville du Textile, TX 12345",
+    "copyright": "Nom de l'entreprise"
+  }
+}
